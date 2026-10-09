@@ -11,3 +11,7 @@ Hello! I am a student of Computer Science and Information Technology (CSIT). I a
 
 ## Interests
 - Interested in software development
+
+
+## Goals
+- Contribute to open-source projects
