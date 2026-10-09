@@ -7,3 +7,7 @@ Hello! I am a student of Computer Science and Information Technology (CSIT). I a
 
 ## Skills
 - Learning C++
+
+
+## Interests
+- Interested in software development
