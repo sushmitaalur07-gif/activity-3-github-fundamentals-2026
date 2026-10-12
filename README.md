@@ -15,3 +15,12 @@ Hello! I am a student of Computer Science and Information Technology (CSIT). I a
 
 ## Goals
 - Contribute to open-source projects
+
+
+## Projects
+
+### 1. Simple Memory Allocator
+A C project that demonstrates dynamic memory allocation and memory management.
+
+### 2. LeetCode Solutions
+A collection of programming solutions to improve problem-solving and coding skills.
